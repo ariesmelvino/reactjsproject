@@ -1,0 +1,253 @@
+.header-color {
+  background: #7b4397;
+  background: -webkit-linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+  background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+}
+
+
+.beranda-grid {
+  overflow: scroll;
+  background: #7b4397;
+  /*background: -webkit-linear-gradient(to left, #76b7e2, #ee7fad);
+  background: linear-gradient(to left, #76b7e2, #ee7fad);*/
+  background: -webkit-linear-gradient(to right, #feac5e, #c779d0, #4bc0c8);
+  background: linear-gradient(to right, #feac5e, #c779d0, #4bc0c8);
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.projects-grid {
+  display: flex;
+}
+
+
+.avatar-img {
+  padding-top: 5em;
+  align-items: center;
+}
+
+.avatar-imgg {
+  padding-top: 1em;
+  align-items: center;
+}
+
+
+.banner-text {
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 2px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text hr {
+  border-top: 2px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 14px;
+  padding: 1em;
+  text-align: justify;
+}
+
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+}
+
+
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
+/*Tambahan Banner2*/
+
+.banner-text2 {
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text2 h1 {
+  font-size: 2px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text2 hr {
+  border-top: 2px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text2 p {
+  color: white;
+  font-size: 14px;
+  padding: 1em;
+  text-align: justify;
+}
+
+/*----------------------------*/
+
+
+/*Tambahan Banner3*/
+
+.banner-text3 {
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text3 h1 {
+  font-size: 2px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text3 hr {
+  border-top: 2px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text3 p {
+  color: white;
+  font-size: 14px;
+  padding: 1em;
+  text-align: justify;
+}
+
+/*----------------------------*/
+
+/*Tambahan Banner4*/
+
+.banner-text4 {
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text4 h1 {
+  font-size: 2px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text4 hr {
+  border-top: 2px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text4 p {
+  color: white;
+  font-size: 14px;
+  padding: 1em;
+  text-align: justify;
+}
+
+
+.banner-text5 h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text9 h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: yellow;
+}
+
+/*----------------------------*/
+
+
+
+.content-body {
+  overflow: scroll;
+  background: #7b4397;
+  /*background: -webkit-linear-gradient(to left, #76b7e2, #ee7fad);
+  background: linear-gradient(to left, #76b7e2, #ee7fad);*/
+  background: -webkit-linear-gradient(to right, #feac5e, #c779d0, #4bc0c8);
+  background: linear-gradient(to right, #feac5e, #c779d0, #4bc0c8);
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.content-grid {
+  text-align: center;
+  justify-content: center;
+ /* width: 80%;
+  height: 550px; */
+  width: 100%;
+  height: 100%;
+  /*height: 1100px;*/
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.content-grid hr {
+  border-top: 5px dotted black;
+  width: 100%;
+  margin: auto;
+}
+
+.content-grid2 {
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.content-grid2 h4 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.content-list i {
+  font-size: 66px;
+  padding-right: 5rem;
+}
+
+/*Tambahan footer*/
+.footer-color {
+  background: #7b4397;
+  background: -webkit-linear-gradient(to right, #dc2430, #7b4397);
+  background: linear-gradient(to right, #dc2430, #7b4397);
+}
