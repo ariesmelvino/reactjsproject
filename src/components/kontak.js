@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
-import Iframe from 'react-iframe'
+import { Grid, Cell, List, ListItem, ListItemContent} from 'react-mdl';
+import Iframe from 'react-iframe';
+
 
 class Kontak extends Component {
   render() {

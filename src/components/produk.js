@@ -95,44 +95,7 @@ class Produk extends Component {
                   
         </div>
 
-        {<br/>}
-
-        <div className="projects-grid">
-
-        {/* Project 11 */}
-        <Card shadow={5} style={{width: '380px', height: '256px', background: 'url(https://i.ibb.co/jTYnbV2/IMG-20180510-WA0061.jpg) center / cover', margin: 'auto'}}>
-        </Card>
-
-        {/* Project 12 */}
-        <Card shadow={5} style={{width: '380px', height: '256px', background: 'url(https://i.ibb.co/fpSk97L/IMG-20180510-WA0029.jpg) center / cover', margin: 'auto'}}>
-        </Card>
-
-        {/* Project 13 */}
-        <Card shadow={5} style={{width: '380px', height: '256px', background: 'url(https://i.ibb.co/PtSn2Rp/IMG-20180510-WA0038.jpg) center / cover', margin: 'auto'}}>
-        </Card>
-                  
-        </div>
-
-        
-        {<br/>}
-
-        <div className="projects-grid">
-
-        {/* Project 14 */}
-        <Card shadow={5} style={{width: '380px', height: '256px', background: 'url(https://i.ibb.co/jTYnbV2/IMG-20180510-WA0061.jpg) center / cover', margin: 'auto'}}>
-        </Card>
-
-        {/* Project 15 */}
-        <Card shadow={5} style={{width: '380px', height: '256px', background: 'url(https://i.ibb.co/fpSk97L/IMG-20180510-WA0029.jpg) center / cover', margin: 'auto'}}>
-        </Card>
-
-        {/* Project 16 */}
-        <Card shadow={5} style={{width: '380px', height: '256px', background: 'url(https://i.ibb.co/PtSn2Rp/IMG-20180510-WA0038.jpg) center / cover', margin: 'auto'}}>
-        </Card>
-                  
-        </div>
-
-        
+              
 
         
 

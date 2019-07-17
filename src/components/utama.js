@@ -5,6 +5,7 @@ import Beranda from './beranda';
 import Pelanggan from './partner';
 import Produk from './produk';
 import Kontak from './kontak';
+import Login from './logincomponent';
 //import Login from './Login';
 //import Homestay from './homestay';
 
@@ -15,6 +16,7 @@ const Utama = () => (
     <Route path="/partner" component={Pelanggan} />
     <Route path="/produk" component={Produk} />
     <Route path="/kontak" component={Kontak} />
+    <Route path="/logincomponent" component={Login} />
     {/*<Route path="/Login" component={Login} />*/}
   </Switch>
 )

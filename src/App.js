@@ -1,8 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
+import './components/styles.css';
 import Utama from './components/utama';
 import { Link } from 'react-router-dom';
-import { Layout, Header, Navigation, Drawer, Content, Footer } from 'react-mdl';
+import { Layout, Header, Navigation, Drawer, Content, Footer} from 'react-mdl';
+//import './styles.css';
+
+
 
 class App extends Component {
   render() {
@@ -15,6 +19,7 @@ class App extends Component {
                       <Link to="/partner">Pelanggan</Link>
                       <Link to="/produk">Produk</Link>
                       <Link to="/kontak">Kontak</Link>
+                      <Link to="/login">Login</Link>
                   {/*<Link to="/kontak">Login</Link>*/}
                   </Navigation>
               </Header>
@@ -24,6 +29,7 @@ class App extends Component {
                   <Link to="/partner">Pelanggan</Link>
                   <Link to="/produk">Produk</Link>
                   <Link to="/kontak">Kontak</Link>
+                  <Link to="/login">Login</Link>
                   {/*<Link to="/kontak">Login</Link>*/}
               </Navigation>
               </Drawer>
